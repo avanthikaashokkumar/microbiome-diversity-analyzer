@@ -1,0 +1,4 @@
+sample,total_reads,observed_taxa,shannon_index,simpson_index,evenness,top_taxon,top_taxon_percent
+sample_A,440,10,2.0048,0.8394,0.8707,Bacteroides,27.27
+sample_B,530,10,2.0966,0.853,0.9106,Lactobacillus,24.53
+sample_C,440,10,1.982,0.813,0.8608,Prevotella,36.36
